@@ -1,6 +1,6 @@
 package com.geekbrains.lesson1;
 
-public class HomeWork_2 {
+public class HomeWork2 {
 
     public static void main(String[] args) {
         System.out.println("----Task1----");

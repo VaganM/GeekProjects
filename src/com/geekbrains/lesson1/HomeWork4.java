@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class HomeWork_4 {
+public class HomeWork4 {
 
     private static final int SIZE = 5;
     private static final char DOT_X = 'X';

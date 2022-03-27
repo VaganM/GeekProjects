@@ -1,10 +1,9 @@
 package com.geekbrains.lesson1;
 
 import java.util.Arrays;
-import java.util.Map;
 import java.util.Random;
 
-public class HomeWork_3 {
+public class HomeWork3 {
     public static void main(String[] args) {
 
         invertArray();
